@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ckyc6i.yoursingles.online/sitemap.xml
